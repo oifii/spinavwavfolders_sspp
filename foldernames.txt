@@ -1,0 +1,14 @@
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\Debug
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\ipch
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\Release
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\VA-10_mV_sforz_fp
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\West African Kits
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\World Music Kit
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\ipch\spinavwavfolders-a759af09
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\Release\World Music Kit
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\Release\World Music Kit\World Music Kit Samples
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\Release\World Music Kit\World Music Kit Samples\IR Samples
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\West African Kits\West African Kit (Bells + Shakers) Samples
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\West African Kits\West African Kit (Drums) Samples
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\World Music Kit\World Music Kit Samples
+C:\spoirier\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spinavwavfolders_sspp\World Music Kit\World Music Kit Samples\IR Samples

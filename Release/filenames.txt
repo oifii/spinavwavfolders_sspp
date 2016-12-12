@@ -1,0 +1,222 @@
+Afr.WAV
+Afr_1.WAV
+Afr_10.WAV
+Afr_11.WAV
+Afr_12.WAV
+Afr_13.WAV
+Afr_15.WAV
+Afr_16.WAV
+Afr_18.WAV
+Afr_19.WAV
+Afr_2.WAV
+Afr_20.WAV
+Afr_21.WAV
+Afr_22.WAV
+Afr_23.WAV
+Afr_24.WAV
+Afr_25.WAV
+Afr_26.WAV
+Afr_27.WAV
+Afr_28.WAV
+Afr_29.WAV
+Afr_3.WAV
+Afr_30.WAV
+Afr_31.WAV
+Afr_32.WAV
+Afr_33.WAV
+Afr_34.WAV
+Afr_35.WAV
+Afr_36.WAV
+Afr_38.WAV
+Afr_39.WAV
+Afr_4.WAV
+Afr_40.WAV
+Afr_41.WAV
+Afr_43.WAV
+Afr_44.WAV
+Afr_45.WAV
+Afr_46.WAV
+Afr_47.WAV
+Afr_48.WAV
+Afr_5.WAV
+Afr_50.WAV
+Afr_51.WAV
+Afr_52.WAV
+Afr_53.WAV
+Afr_54.WAV
+Afr_55.WAV
+Afr_56.WAV
+Afr_57.WAV
+Afr_58.WAV
+Afr_59.WAV
+Afr_6.WAV
+Afr_7.WAV
+Afr_71.WAV
+Afr_72.WAV
+Afr_73.WAV
+Afr_75.WAV
+Afr_79.WAV
+Afr_8.WAV
+Afr_9.WAV
+Bananawood Drum a-1.WAV
+Bananawood Drum a-2.WAV
+Bananawood Drum a-3.WAV
+Bananawood Drum a-4.WAV
+Bananawood Drum a-5.WAV
+Bananawood Drum a-6.WAV
+Bananawood Drum a-7.WAV
+Bananawood Drum a-8.WAV
+Bananawood Drum a-9.WAV
+Berimbau a-1.WAV
+Berimbau a-2.WAV
+Berimbau a-3.WAV
+Berimbau a-6.WAV
+Berimbau a-8.WAV
+Big Djembe a-1.WAV
+Big Djembe a-10.WAV
+Big Djembe a-11.WAV
+Big Djembe a-12.WAV
+Big Djembe a-13.WAV
+Big Djembe a-14.WAV
+Big Djembe a-15.WAV
+Big Djembe a-16.WAV
+Big Djembe a-17.WAV
+Big Djembe a-18.WAV
+Big Djembe a-19.WAV
+Big Djembe a-4.WAV
+Big Djembe a-5.WAV
+Big Djembe a-6.WAV
+Big Djembe a-7.WAV
+Big Djembe a-8.WAV
+Big Djembe a-9.WAV
+Djembe a-1.WAV
+Djembe a-10.WAV
+Djembe a-11.WAV
+Djembe a-12.WAV
+Djembe a-2.WAV
+Djembe a-3.WAV
+Djembe a-4.WAV
+Djembe a-5.WAV
+Djembe a-6.WAV
+Djembe a-8.WAV
+Djembe a-9.WAV
+JAVADRUM 2 (Wave 1).WAV
+JAVADRUM 3 (Wave 1).WAV
+Kenya Gord Rattle a-10.WAV
+Kenya Gord Rattle a-11.WAV
+Kenya Gord Rattle a-12.WAV
+Kenya Gord Rattle a-13.WAV
+Kenya Gord Rattle a-14.WAV
+Kenya Gord Rattle a-17.WAV
+Kenya Gord Rattle a-19.WAV
+Kenya Gord Rattle n-14.WAV
+Kenya Gord Rattle n-15.WAV
+Kenya Gord Rattle n-16.WAV
+Kenya Gord Rattle n-17.WAV
+Kenya Gord Rattle n-18.WAV
+Native Am_1.WAV
+Native Am_11.WAV
+Native Am_12.WAV
+Native Am_13.WAV
+Native Am_15.WAV
+Native Am_17.WAV
+Native Am_18.WAV
+Native Am_2.WAV
+Native Am_3.WAV
+Native Am_4.WAV
+Native Am_5.WAV
+Native Am_6.WAV
+Native Am_8.WAV
+Native Am_9.WAV
+Reverb_1_1.WAV
+Reverb_1_11.WAV
+Reverb_1_12.WAV
+Reverb_1_13.WAV
+Reverb_1_14.WAV
+Reverb_1_15.WAV
+Reverb_1_16.WAV
+Reverb_1_17.WAV
+Reverb_1_19.WAV
+Reverb_1_21.WAV
+Reverb_1_23.WAV
+Reverb_1_25.WAV
+Reverb_1_27.WAV
+Reverb_1_29.WAV
+Reverb_1_3.WAV
+Reverb_1_31.WAV
+Reverb_1_33.WAV
+Reverb_1_35.WAV
+Reverb_1_37.WAV
+Reverb_1_39.WAV
+Reverb_1_41.WAV
+Reverb_1_42.WAV
+Reverb_2_1.WAV
+Reverb_2_11.WAV
+Reverb_2_13.WAV
+Reverb_2_15.WAV
+Reverb_2_17.WAV
+Reverb_2_19.WAV
+Reverb_2_21.WAV
+Reverb_2_23.WAV
+Reverb_2_25.WAV
+Reverb_2_27.WAV
+Reverb_2_29.WAV
+Reverb_2_3.WAV
+Reverb_2_31.WAV
+Reverb_2_33.WAV
+Reverb_2_35.WAV
+Reverb_2_37.WAV
+Reverb_2_39.WAV
+Reverb_2_41.WAV
+Reverb_2_42.WAV
+Reverb_2_5.WAV
+Reverb_2_7.WAV
+Reverb_2_9.WAV
+Reverb_2a_1.WAV
+Reverb_2a_2.WAV
+Reverb_3_39.WAV
+Reverb_3_41.WAV
+Reverb_3_43.WAV
+Reverb_3_45.WAV
+Reverb_3_47.WAV
+Reverb_3_49.WAV
+Reverb_3_51.WAV
+Reverb_3_53.WAV
+Reverb_3_55.WAV
+Reverb_3_57.WAV
+Reverb_3_59.WAV
+Reverb_3_61.WAV
+Reverb_3_63.WAV
+Reverb_3_68.WAV
+Reverb_3_69.WAV
+Reverb_3_70.WAV
+Reverb_3_73.WAV
+Reverb_3_74.WAV
+Reverb_3_75.WAV
+Reverb_3_76.WAV
+Reverb_3a_1.WAV
+Reverb_3a_3.WAV
+Reverb_3a_5.WAV
+Reverb_3a_6.WAV
+Salad Bowl Drum a-1.WAV
+Salad Bowl Drum a-14.WAV
+Salad Bowl Drum a-15.WAV
+Salad Bowl Drum a-19.WAV
+Salad Bowl Drum a-20.WAV
+Salad Bowl Drum a-28.WAV
+Salad Bowl Drum a-3.WAV
+Salad Bowl Drum a-32.WAV
+Salad Bowl Drum a-34.WAV
+Salad Bowl Drum a-35.WAV
+Salad Bowl Drum a-37.WAV
+Salad Bowl Drum a-5.WAV
+Salad Bowl Drum a-6.WAV
+Shaker Afr_104.WAV
+Shaker Afr_33.WAV
+Shaker Afr_34.WAV
+Shaker Afr_36.WAV
+Shaker Afr_37.WAV
+Shaker Afr_38.WAV
+Shaker Afr_40.WAV
+Shaker Afr_41.WAV
+Shaker Afr_42.WAV
